@@ -1,0 +1,26 @@
+id: ICAFF22C9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:16:09.644850'
+last_modified: '2022-06-11T13:16:09.644855'
+parser: null
+source_metadata:
+  title: Tupten Chöpel
+  language: zh
+  description: 'Texts by the great Khenpo Tupten Chöpel (thub bstan chos ''phel, 1886–1956)
+    also known as Tubga Yishyin Norbu (thub dga'' yid bzhin nor bu) of Changma hermitage
+    in Dzachukha:'
+  volume:
+    fD3B7:
+      title: Aspiration Prayer
+      base_file: fD3B7.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
